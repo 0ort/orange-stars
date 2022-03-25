@@ -1,11 +1,13 @@
-# Homework 01: Birdfeed Bin Overseer
+# Exercise 1: Idea project diagram
+
+## Birdfeed Bin Overseer
 
 The idea behind this project is to provide information on the status of the
 birdfeed bin, so one could easily keep up with the levels of birdfeed and
 monitor the necessity to order fresh seed. Birdfeed Bin Overseer should be easy
 to mount up on any bin, in which one could keep the seeds.
 
-## About the project
+### About the project
 The base of the Birdfeed Bin Overseer is the ultrasonic rangefinder sensor,
 which provides the user with the distance between the bin lid and the seeds kept
 in the bin. The user should calibrate the rangefinder everytime the device is
@@ -28,7 +30,7 @@ The device will alert the user in the following scenarios:
 The user will be notified via the LCD screen readout and blinking led.
 
 
-## Architecture
+### Architecture
 
 
 |![Software block diagram](assets/hw01_software-block-diagram.png)|
