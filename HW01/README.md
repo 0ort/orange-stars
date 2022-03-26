@@ -3,7 +3,7 @@
 ## Birdfeed Bin Overseer
 
 The idea behind this project is to provide information on the status of the
-birdfeed bin, so one could easily keep up with the levels of birdfeed and
+birdfeed in the bin. so one could easily keep up with the levels of birdfeed and
 monitor the necessity to order fresh seed. Birdfeed Bin Overseer should be easy
 to mount up on any bin, in which one could keep the seeds.
 
@@ -37,6 +37,6 @@ The user will be notified via the LCD screen readout and blinking led.
 |:--:|
 | *Figure 1. Software block diagram of the Birdfeed Bin Overseer*|
 
-|![Software Hierarchy Diagram](assets/hw01_software-hierarchy-diagram.png)|
+|![Hierarchy of Control Diagram](assets/hw01_software-hierarchy-of-control-diagram.png)|
 |:--:|
-| *Figure 2. Software hierarchy diagram of the Birdfeed Bin Overseer*|
+| *Figure 2. Hierarchy of control diagram of the Birdfeed Bin Overseer*|
