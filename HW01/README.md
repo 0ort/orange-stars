@@ -1,11 +1,15 @@
 # Exercise 1: Idea project diagram
 
 ## Birdfeed Bin Overseer
+If you are someone who likes feeding birds in your garden, you probably already
+have a container for the seeds and nuts. But your bin is not smart at all. In
+the 21st century, one needs to have "smart" IoT appliances, therefore: Birdfeed
+Bin Overseer.
 
-The idea behind this project is to provide information on the status of the
-birdfeed in the bin. so one could easily keep up with the levels of birdfeed and
-monitor the necessity to order fresh seed. Birdfeed Bin Overseer should be easy
-to mount up on any bin, in which one could keep the seeds.
+The idea behind it is to provide the level of bird feed in the bin and monitor
+the necessity to order fresh seeds from the store before it runs out. The device
+should be easy to mount on any bin or container to satisfy the market's niche.
+
 
 ### About the project
 The base of the Birdfeed Bin Overseer is the ultrasonic rangefinder sensor,
