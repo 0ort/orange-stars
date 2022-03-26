@@ -36,3 +36,7 @@ The user will be notified via the LCD screen readout and blinking led.
 |![Software block diagram](assets/hw01_software-block-diagram.png)|
 |:--:|
 | *Figure 1. Software block diagram of the Birdfeed Bin Overseer*|
+
+|![Software Hierarchy Diagram](assets/hw01_software-hierarchy-diagram.png)|
+|:--:|
+| *Figure 2. Software hierarchy diagram of the Birdfeed Bin Overseer*|
