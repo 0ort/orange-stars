@@ -20,5 +20,5 @@ Comparison of 32F429IDISCOVERY and LPCXpresso55S69
 ## LPCXpresso55S69
 
 
-- ![LPCXpresso55S69 Development Board User Manual](https://www.nxp.com/webapp/Download?colCode=UM11158)
-- ![MCPU Datasheet](https://www.mouser.cn/datasheet/2/302/LPC55S6x-1536969.pdf)
+- [LPCXpresso55S69 Development Board User Manual](https://www.nxp.com/webapp/Download?colCode=UM11158)
+- [MCPU Datasheet](https://www.mouser.cn/datasheet/2/302/LPC55S6x-1536969.pdf)
